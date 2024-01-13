@@ -4,3 +4,4 @@
 .cnki.net
 .cnrds.com
 .gtarsc.com
+.ceicdata.com
