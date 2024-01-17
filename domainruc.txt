@@ -5,3 +5,6 @@
 .cnrds.com
 .gtarsc.com
 .ceicdata.com
+.sciencedirect.com
+.springer.com
+.jstor.org
