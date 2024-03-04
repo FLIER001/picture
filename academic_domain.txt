@@ -12,3 +12,4 @@ payload:
   - '+.elgaronline.com'
   - '+.balis.edu.cn'
   - '+.pishu.com.cn'
+  - '+.cqvip.com'
